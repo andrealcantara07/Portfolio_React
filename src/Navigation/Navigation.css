@@ -1,0 +1,22 @@
+.navi{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: blue;
+    display: block;
+    padding: 0px 20px;
+}
+li{
+    padding: 2px 0px;
+}
+a:hover{
+    cursor: pointer;
+    color: white;
+
+}
+.dropdown{
+    position: absolute;
+    z-index: 1;
+    box-shadow: 0 2px 3px rgb(0,0,0);
+
+}
